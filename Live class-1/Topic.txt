@@ -1,0 +1,13 @@
+
+
+লাইভ ক্লাস
+
+৩১ ডিসে, রাত ৯:০০
+
+এটেন্ড্যান্স স্কোর যুক্ত হবে
+
+Authentication in Laravel
+
+নোট:
+
+Authentication Process ,Structure , Middleware, Routes, Templates in Details 
